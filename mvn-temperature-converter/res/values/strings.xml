@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Temperature Converter</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Temperature Converter</string>
+    <string name="celcius">Fahrenheit to Celsius</string>
+    <string name="farenheit">Celsius to Fahrenheit</string>
+    <string name="calc">Calculate</string>
+    <string name="edit_field_hint">Enter temperature</string>
+    
+    <color name="background_colour">#F5F5F5</color>
+
+</resources>
